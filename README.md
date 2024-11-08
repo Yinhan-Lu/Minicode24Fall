@@ -1,2 +1,2 @@
 # Minicode24Fall
-Yinhan's coursecode 24fall
+my coursecode 24fall
